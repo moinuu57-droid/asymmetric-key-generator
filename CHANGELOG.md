@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v1.1.5
+- Update dependencies
+
 ## v1.1.4
 - Update dependencies
 - Update Electron builder configuration for Windows code signing
